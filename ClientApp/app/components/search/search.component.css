@@ -1,0 +1,10 @@
+.currentItem {
+    display: flex;
+}
+.currentItem div {
+    margin: 20px;
+}
+.tag {
+    margin-right: 5px;
+    font-size: 14px;
+}
